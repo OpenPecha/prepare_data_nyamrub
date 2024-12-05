@@ -8,16 +8,13 @@
   <br>
 </h1>
 
-## _Project Name_
-_The project name should match its code's capability so that new users can easily understand what it does._
+## _Prepare Data for Nyamrub_
+_Prepare MT, OCR, STT, TTS for crowdsourcing website named nyamrub.._
 
-## Owner(s)
 
-_Change to the owner(s) of the new repo. (This template's owners are:)_
-- [@ngawangtrinley](https://github.com/ngawangtrinley)
-- [@mikkokotila](https://github.com/mikkokotila)
-- [@evanyerburgh](https://github.com/evanyerburgh)
-
+## For OCR data preparation:
+1. Use this [package](https://github.com/OpenPecha/OCR-Deployment) to crop line images from Image contain tibetan texts.
+2. Use this [package](https://github.com/tenzin3/line_image_classifier) to filter out the bad line images.
 
 ## Table of contents
 <p align="center">
